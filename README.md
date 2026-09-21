@@ -104,7 +104,6 @@ __TYPE NAME__ :
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
-## BUY ME A COFFEE :
 
 
 
